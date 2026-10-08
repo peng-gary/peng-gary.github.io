@@ -26,11 +26,11 @@ author:
   avatar           : "garypeng.jpg"
   name             : "Gary Peng"
   pronouns         : # example: "she/her"  
-  bio              : "4th-Year CS + Math Double Major @ UMD"
-  location         : "College Park, MD"
-  employer         : "University of Maryland"
+  bio              : "First-Year EECS PhD Student at MIT"
+  location         : "Cambridge, Massachusetts"
+  employer         : "Massachusetts Institute of Technology"
   uri              : # URL
-  email            : "22gapeng22@gmail.com" 
+  email            : "garypeng@mit.edu" 
 
   # Academic websites
   academia         : # URL
