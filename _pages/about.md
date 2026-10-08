@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year graduate student at the Massachusetts Insitute of Technology, where I am advised by [Julian Shun](https://jshun.csail.mit.edu/). I have a broad interest in algorithms and complexity, and I am currently working on batch-dynamic parallel graph algorithms. My research is supported by the NSF Graduate Research Fellowship.
+I am a first-year EECS graduate student at the Massachusetts Insitute of Technology, where I am advised by [Julian Shun](https://jshun.csail.mit.edu/). I have a broad interest in algorithms and complexity, and I am currently working on batch-dynamic parallel graph algorithms. My research is supported by the NSF Graduate Research Fellowship.
 
 I am grateful have worked with [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), [Suho Shin](https://suhoshin.github.io/), and [Karthik C.S.](https://cskarthikcs.github.io/) during my undergraduate years.
 
