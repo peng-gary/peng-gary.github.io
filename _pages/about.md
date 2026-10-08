@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year computer science and mathematics double major at the University of Maryland, College Park with research interests in mechanism design and algorithms/complexity. I am currently working on two-sided markets and lower bounds for biclique, and I am grateful to be advised by [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), [Suho Shin](https://suhoshin.github.io/), and [Karthik C.S.](https://cskarthikcs.github.io/)
+I am a first-year graduate student at the Massachusetts Insitute of Technology, where I am advised by [Julian Shun](https://jshun.csail.mit.edu/). I have a broad interest in algorithms and complexity, and I am currently working on batch-dynamic parallel graph algorithms. 
 
-I am applying to Ph.D. programs in computer science for Fall 2026. Feel free to reach out!
+I am grateful have worked with [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), [Suho Shin](https://suhoshin.github.io/), and [Karthik C.S.](https://cskarthikcs.github.io/) during my undergraduate years.
 
 # Publications
+*Single-Sample Bilateral Trade with a Broker* [(WWW26)](https://dl.acm.org/doi/10.1145/3774904.3792623), with MohammadTaghi Hajiaghayi and Suho Shin
+
 *Gains-from-Trade in Bilateral Trade with a Broker* [(SODA25)](https://epubs.siam.org/doi/10.1137/1.9781611978322.164), with Ilya Hajiaghayi, MohammadTaghi Hajiaghayi, and Suho Shin
